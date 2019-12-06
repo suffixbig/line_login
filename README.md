@@ -10,10 +10,10 @@ https://developers.line.biz/zh-hant/
 
 
 ## 我們接著可以開始寫程式了！我們會使用的主要三個API為
-Ⅰ https://access.line.me/oauth2/v2.1/authorize  (登入連結)
-Ⅱ https://api.line.me/oauth2/v2.1/token (取得Access Token)
-Ⅲ https://api.line.me/v2/profile (取得登入者資料)
-素材:Login Button(https://developers.line.me/en/docs/line-login/login-button/)
+Ⅰ https://access.line.me/oauth2/v2.1/authorize  (登入連結)  
+Ⅱ https://api.line.me/oauth2/v2.1/token (取得Access Token) 
+Ⅲ https://api.line.me/v2/profile (取得登入者資料)  
+素材:Login Button(https://developers.line.me/en/docs/line-login/login-button/)  
 
 ## ode很重要！只能用一次！並有十分鐘效期
 我們要用它來呼叫另一支API:  https://api.line.me/oauth2/v2.1/token 以便取得 access token，要取得access token，我們才能終極取得用戶的 profile資料！
@@ -39,11 +39,11 @@ https://1-0.tw/DEMO/line_login/user.php		#用COOKIE記憶的access_token的去�
 https://1-0.tw/DEMO/line_login/test_user.php	#用寫死的access_token的去取得資料  
 
 ## 參考教學
-PHP 使用 Line Login 帳號驗證登入 申請實作
-http://superlevin.ifengyuan.tw/php-%E4%BD%BF%E7%94%A8-line-login-%E5%B8%B3%E8%99%9F%E9%A9%97%E8%AD%89%E7%99%BB%E5%85%A5/
-php 登入實作
-https://www.anson.com.tw/2018/anson-post-581.html
+PHP 使用 Line Login 帳號驗證登入 申請實作  
+http://superlevin.ifengyuan.tw/php-%E4%BD%BF%E7%94%A8-line-login-%E5%B8%B3%E8%99%9F%E9%A9%97%E8%AD%89%E7%99%BB%E5%85%A5/  
+php 登入實作  
+https://www.anson.com.tw/2018/anson-post-581.html  
 
 ### 作者
-台灣碼農
-https://1-0.tw 台灣碼農的個人網站
+台灣碼農  
+https://1-0.tw 台灣碼農的個人網站  
